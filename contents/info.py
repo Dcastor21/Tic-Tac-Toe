@@ -26,3 +26,9 @@ def main():
    def space_check(board, position):
         
       pass
+   def full_board_check(board):
+        
+    pass
+   def player_choice(board):
+        
+    pass
